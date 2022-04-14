@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-nodejs-api-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javasacript"
+  ],
+  "author": "m.bebars",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
